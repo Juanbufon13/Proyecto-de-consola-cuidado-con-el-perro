@@ -1,0 +1,8 @@
+C:\Users\junio\OneDrive\Escritorio\Examen_JuanLuisLopezNajar\Examen_JuanLuisLopezNajar\bin\Debug\Examen_JuanLuisLopezNajar.exe.config
+C:\Users\junio\OneDrive\Escritorio\Examen_JuanLuisLopezNajar\Examen_JuanLuisLopezNajar\bin\Debug\Examen_JuanLuisLopezNajar.exe
+C:\Users\junio\OneDrive\Escritorio\Examen_JuanLuisLopezNajar\Examen_JuanLuisLopezNajar\bin\Debug\Examen_JuanLuisLopezNajar.pdb
+C:\Users\junio\OneDrive\Escritorio\Examen_JuanLuisLopezNajar\Examen_JuanLuisLopezNajar\obj\Debug\Examen_JuanLuisLopezNajar.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Escritorio\Examen_JuanLuisLopezNajar\Examen_JuanLuisLopezNajar\obj\Debug\Examen_JuanLuisLopezNajar.csproj.SuggestedBindingRedirects.cache
+C:\Users\junio\OneDrive\Escritorio\Examen_JuanLuisLopezNajar\Examen_JuanLuisLopezNajar\obj\Debug\Examen_JuanLuisLopezNajar.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\Examen_JuanLuisLopezNajar\Examen_JuanLuisLopezNajar\obj\Debug\Examen_JuanLuisLopezNajar.exe
+C:\Users\junio\OneDrive\Escritorio\Examen_JuanLuisLopezNajar\Examen_JuanLuisLopezNajar\obj\Debug\Examen_JuanLuisLopezNajar.pdb
